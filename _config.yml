@@ -1,0 +1,16 @@
+title: <p align="center"> Rifqi Azhari </p>
+
+logo: "/images/picture.png?raw=true"
+
+description:
+  <p align="center">
+  <a href="file/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/rifqiazhari/">LinkedIn</a> |
+  <a href="https://github.com/rifqiazhari">GitHub</a>
+  </p>
+  <p align="justify">
+  Engineering fresh graduate from Universitas Indonesia, 2x PM in Flying Robotics Research Team for Int. Competition, 2x TA in applied math, 1x Research Asst. with Int. Publication, & Had a 6-month internship in Diagnostic Analytics (Maintenance) in Oil & Gas.
+  <br><be>
+  </p>
+  
+theme: jekyll-theme-minimal
