@@ -2,7 +2,7 @@
 ---
 ## Flying Robotics
 
-### SKYLARK
+### UIFC SKYLARK
 
 [![Open Notebook](https://img.shields.io/badge/YouTube-Link-red?logo=Youtube)](https://www.youtube.com/watch?v=VLSD3ZfsFUg)
 
@@ -11,7 +11,7 @@ Electric Vehicle Urban Air Mobility (UAM) concept that could transport 2 people 
 <center><img src="images/imgonline-com-ua-twotoone-mfkZiS7I7j0.jpg"/></center>
 
 ---
-### Predict Spaceship Titanic Passenger Who Got Transported (Classification) using Logistic Regression, Random Forest, KNN, Decision Trees, SVM, GradientBoosting Classifier, Catboost Classifier with Cross Validation (Top 7% in Kaggle - Solo)
+### AUAV IV (Goods Carrier)
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-green?logo=Jupyter)](html3/spaceship.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-green?logo=GitHub)](https://github.com/rifqiazhari/rifqiazhari.github.io/blob/main/python/spaceship.ipynb)
@@ -23,13 +23,19 @@ From this unique case, we have the objective to predict whether a passenger was 
 
 <div style="text-align: justify"></div>
 
+### Assistant Project Manager - Renewable Energy Research (Tidal Turbine)
 <center><img src="images/imgonline-com-ua-twotoone-A39GjSZSF1eLlR.jpg"/></center>
-
 ---
+
+### Project Manager/Team Captain - AUAV I (Racing)
 <center><img src="images/imgonline-com-ua-twotoone-ODLGZgB8h0.jpg"/></center>
 ---
+
+### Head of Division - AUAV IV (Goods Carrier)
 <center><img src="images/imgonline-com-ua-twotoone-Hyen9gbyDcRb5ysa.jpg"/></center>
 ---
+
+### Staff - AUAV II (Mapping and Monitoring)
 <center><img src="images/imgonline-com-ua-twotoone-27fPkRtnmMeZ.jpg"/></center>
 ---
 
