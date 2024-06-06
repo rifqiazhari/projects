@@ -4,13 +4,9 @@
 
 ### SKYLARK
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-green?logo=Jupyter)](html3/houseprice.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-green?logo=GitHub)](https://github.com/rifqiazhari/rifqiazhari.github.io/blob/main/python/houseprice.ipynb)
-[![Download Notebook](https://img.shields.io/badge/Download%20Notebook-8A2BE2)](python/houseprice.ipynb)
+[![Open Notebook](https://img.shields.io/badge/YouTube-Link-red?logo=Youtube)](https://www.youtube.com/watch?v=VLSD3ZfsFUg)
 
-When buying a house, customers usually have considerations about things like the presence of a garage, the number of bedrooms, the number of floors, and the age of the house. On this occasion, I am given The Ames Housing dataset compiled by Dean De Cock and provided by Kaggle. This dataset talks about many variables of houses from the count into its variable area. Our objective is to predict the sales price for each house.
-
-I use many regression algorithms to build the model for this case. From what I worked on, the results stated that The CatBoost Regression makes the best prediction with score 0.12635 (TOP 13%) followed by Lightgbm Regression with 0.13600, XGBoost Regression with 0.13846, Random Forest Regression with 0.14769, Ridge Regression with 0.16393, Lasso Regression with 0.18259, Linear Regression with 0.19824. Improvement still can be make by adding by applying cross-validation (CV), and more deeper EDA.
+Electric Vehicle Urban Air Mobility (UAM) concept that could transport 2 people at its maximum capacity. The UAM consists of ground and fly parts. The UAM is designed to do VTOL and travel around 100 km. Funded by the university, got a finalist title (world number-14) in international competition.
 
 <center><img src="images/imgonline-com-ua-twotoone-mfkZiS7I7j0.jpg"/></center>
 
